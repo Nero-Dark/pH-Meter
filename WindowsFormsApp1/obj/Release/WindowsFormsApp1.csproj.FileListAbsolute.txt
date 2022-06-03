@@ -1,0 +1,9 @@
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\bin\Release\pH-meter.exe.config
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\bin\Release\pH-meter.exe
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\bin\Release\pH-meter.pdb
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\pH_Meter.Properties.Resources.resources
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\pH-meter.exe
+D:\2021 Шумляев\DEV\c++\WindowsFormsApp1\WindowsFormsApp1\obj\Release\pH-meter.pdb
